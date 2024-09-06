@@ -1,7 +1,4 @@
 
-**Description**:
-This project aims to analyze employee attrition using Power BI to provide HR insights into the factors contributing to employees leaving the company. The analysis includes data cleaning, visualization, and dashboard creation to display key metrics and trends. By understanding these factors, HR can implement strategies to improve employee retention.
-
 **Features**:
 - **Data Cleaning**: Processed raw data from a CSV file to ensure accuracy and consistency.
 - **Dashboard**: Created an interactive dashboard in Power BI to visualize attrition data.
