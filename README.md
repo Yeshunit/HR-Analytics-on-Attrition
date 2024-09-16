@@ -29,6 +29,9 @@ This project highlights the importance of understanding employee attrition and p
 - Develop predictive models to forecast attrition based on various factors.
 - Continuously update the dashboard with new data to monitor trends over time.
 
+![image](https://github.com/user-attachments/assets/5e44472d-0c77-472e-ba60-a65bda9120e9)
+
+
 **Contributions**:
 Contributions are welcome! If you have any suggestions or improvements, feel free to create a pull request or open an issue.
 ---
